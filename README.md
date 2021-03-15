@@ -3,6 +3,7 @@ Antes de executar o app certifique-se de instalar as dependências, utilize os s
 ### `yarn`
 Para executar o app, utilize o comando:
 ### `yarn android`
+Para utilizar as funções do firebase você precisa adicionar seu arquivo "googles-services.json" na pasta "android\app", para gerar este arquivo utilize o [Console Firebase](https://firebase.google.com/?hl=pt-br).
 
 ## Serviço de autenticação
  
