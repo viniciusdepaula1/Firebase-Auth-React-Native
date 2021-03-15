@@ -1,3 +1,5 @@
+## Firebase-Auth-React-Native
+
 Este projeto tem como objetivo auxiliar os desenvolvedores mobile do terralab a construir uma aplicação com serviço de autenticação utilizando o Firebase Authentication. <br />
 Antes de executar o app certifique-se de instalar as dependências, utilize os seguintes comandos no diretório em que o app está localizado: 
 ### `yarn`
